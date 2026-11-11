@@ -1,0 +1,14 @@
+{
+  "name": "Polar Run: The Winter Light",
+  "short_name": "Polar Run",
+  "description": "Pip the penguin races across snow, forest and desert to bring the sunbloom home before the last lamp goes out.",
+  "start_url": "/penguin/",
+  "scope": "/penguin/",
+  "display": "standalone",
+  "background_color": "#0b1029",
+  "theme_color": "#0b1029",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
